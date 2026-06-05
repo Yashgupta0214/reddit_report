@@ -1,0 +1,4 @@
+playwright>=1.44
+gspread>=6.0
+google-auth>=2.29
+reportlab>=4.1
